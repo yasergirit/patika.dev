@@ -27,9 +27,11 @@ Best Case : [2,6,16,18,22,27]
 Worst Case : [27,22,18,16,6,2]
 ```
 
+### 4. Case Status
+
 It becomes like [2,6,16,18,22,27] after the array is sorted. So this is **Average Case**.
 
-### 4. First 4 Steps Depending on Inserion Case
+### 5. First 4 Steps Depending on Inserion Case
 
 ```
 [7|,3,5,8,2,9,4,15,6]
